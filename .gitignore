@@ -1,0 +1,7 @@
+__pycache__/
+checkpoints/
+training_history.json
+visuals/demo_history.json
+visuals/*.png
+*.pt
+*.pyc
